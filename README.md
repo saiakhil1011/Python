@@ -1,2 +1,2 @@
 # Python
-basic python projects
+All python courses and projects
